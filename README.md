@@ -85,9 +85,8 @@ Abra o notebook diretamente no Google Colab:
 
 ## 🎬 Vídeo de Demonstração
 
-[![Assistir ao vídeo](https://img.shields.io/badge/▶%20Assistir-Vídeo%20de%20Demonstração-red?style=for-the-badge)](https://link-do-seu-video.com)
+[![Assistir ao vídeo](https://img.shields.io/badge/▶%20Assistir-Vídeo%20de%20Demonstração-red?style=for-the-badge)](https://youtu.be/mmf1KHuJyDs)
 
-> ⚠️ **Substitua o link acima pelo link real do vídeo antes de entregar.**
 
 ---
 
